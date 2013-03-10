@@ -1,0 +1,8 @@
+*.beam
+.eunit
+deps/*
+apps/philtre/ebin
+*~
+dev/*
+doc/*
+rel/philtre
